@@ -20,6 +20,11 @@ This is my HTML page
 <td> entry 2</td>
 <td> entry 2</td>
 </tr>
+<tr>
+<td> entry 1</td>
+<td> entry 2</td>
+<td> entry 2</td>
+</tr>
 </table>
 
 
